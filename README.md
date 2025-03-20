@@ -12,6 +12,7 @@ A simple and easy to use Ubuntu/Linux utility with discord bot integration that 
 
 ```./install.sh```
 - Automated installation script for Debian/Ubuntu based systems
+  
 ```./sysd_uninstall.sh```
 - Automated uninstall script for Debian/Ubuntu based systems
 
