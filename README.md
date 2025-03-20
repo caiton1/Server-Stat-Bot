@@ -3,11 +3,17 @@ A simple and easy to use Ubuntu/Linux utility with discord bot integration that 
 
 ## How to use
 ```./server-stats.sh [--json]```
+- Main script for output server stats
 - --json optionally outputs the data in json format
 
 ```python3 bot.py```
 - Runs a bot to report sys statistics to discord channel/chat assuming python3-discord is installed via apt or in python environment
 - Need to go to discord developer portal and create a new bot with "Message Content Intent" enabled and copy the Token on the Bot tab
+
+```./install.sh```
+- Automated installation script for Debian/Ubuntu based systems
+```./sysd_uninstall.sh```
+- Automated uninstall script for Debian/Ubuntu based systems
 
 ## How to install Discord-Python integration
 First you will need a discord application:
