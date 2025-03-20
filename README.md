@@ -35,3 +35,4 @@ You can manually run the bot by:
 
 ### Liscence 
 [GPL-3.0 license](https://github.com/caiton1/Server-Stat-Bot/blob/main/LICENSE)
+[](https://roadmap.sh/projects/server-stats)
